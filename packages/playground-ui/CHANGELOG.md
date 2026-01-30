@@ -1,5 +1,15 @@
 # @mastra/playground-ui
 
+## 8.0.1-alpha.0
+
+### Patch Changes
+
+- Use EntryCell icon prop for source indicator in agent table ([#12515](https://github.com/mastra-ai/mastra/pull/12515))
+
+- Updated Badge component styling: increased height to 28px, changed to pill shape with rounded-full, added border, and increased padding for better visual appearance. ([#12511](https://github.com/mastra-ai/mastra/pull/12511))
+
+- Fixed combobox dropdowns in agent create/edit dialogs to render within the modal container, preventing z-index and scrolling issues. ([#12510](https://github.com/mastra-ai/mastra/pull/12510))
+
 ## 8.0.0
 
 ### Minor Changes
